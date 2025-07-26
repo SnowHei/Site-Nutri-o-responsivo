@@ -55,10 +55,8 @@ nutriclin/
 
 ## Como Usar
 
-1. **Descompacte** o arquivo ZIP
-2. **Abra** o arquivo `index.html` em qualquer navegador moderno
-3. **Navegue** pelo site usando o menu ou rolando a página
-4. **Teste** as funcionalidades interativas:
+1. **Navegue** pelo site usando o menu ou rolando a página
+2. **Teste** as funcionalidades interativas:
    - Clique nos links do menu
    - Preencha o formulário de contato
    - Teste os botões de call-to-action
